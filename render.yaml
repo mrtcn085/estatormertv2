@@ -1,0 +1,14 @@
+EMLAK CRM V12.5 - SUPABASE AYAR FIX
+
+Bu sürümde panel config.js okumasa bile Supabase bilgilerini giriş ekranından kaydedebilirsin.
+
+Kullanım:
+1) panel klasörünü GitHub'a yükle.
+2) Render deploy et.
+3) Siteyi aç.
+4) Giriş ekranındaki Supabase Ayarı kutusuna Project URL ve anon/publishable key yaz.
+5) Supabase Ayarını Kaydet butonuna bas.
+6) E-posta/şifre ile giriş yap.
+
+Not: Ayar tarayıcıda localStorage içine kaydedilir. Sen ve arkadaşın kendi cihazında bir kere bu ayarı girmelidir.
+Service role key kullanma.
